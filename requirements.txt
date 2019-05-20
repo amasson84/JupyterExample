@@ -1,1 +1,8 @@
 prettypandas
+numpy
+psutil
+toolz
+matplotlib
+pandas
+seaborn
+zipfile
